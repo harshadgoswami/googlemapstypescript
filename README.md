@@ -1,0 +1,1 @@
+This is a simple example project that demonstrates how to integrate Google Maps into a TypeScript application. It showcases how to set up the necessary dependencies, obtain an API key from Google, and use the Google Maps API to display a map on a web page.
